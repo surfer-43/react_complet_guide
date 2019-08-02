@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+
+.red {
+  color: red;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.person_container {
+  display: flex;
+  flex-direction: row;
+  border: thin solid black;
+}
